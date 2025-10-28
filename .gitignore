@@ -1,0 +1,15 @@
+# Python Virtual Environments
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Streamlit data cache
+.streamlit/
+
+# Database Credentials (Security Best Practice)
+
+# Oracle connection files (if any local wallet files were downloaded)
+cwallet.sso
